@@ -1,6 +1,7 @@
 # Image Captioning using pre-trained GPT-2 models
 
 **Author:** Javier García Gilabert
+
 **Tutor:** Francisco Casacuberta Nolla
 
 The objective of image captioning is to describe the content of an image in natural language. Due to the success of various deep learning architectures, this challenge that combines picture and language processing has aroused a lot of attention in recent years. The key goal for this end grade project is to create more accurate neural machine models for image captioning.
